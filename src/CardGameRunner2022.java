@@ -1,4 +1,4 @@
-public class CardGameRunner2021
+public class CardGameRunner2022
 {
     public static void main(String[] args)
     {
